@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e5c5750eb79677d4d97fa591d4c64ff9
+timeCreated: 1512984704
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Spicy Rice
+  fontNames:
+  - Spicy Rice
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
